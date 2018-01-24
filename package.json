@@ -1,5 +1,6 @@
 {
   "name": "ionic-hello-world",
+  "description": "TabsAndMenu: An Ionic project",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
   "private": true,
@@ -31,7 +32,6 @@
     "@ionic/app-scripts": "1.1.4",
     "typescript": "2.0.9"
   },
-  "description": "TabsAndMenu: An Ionic project",
   "cordovaPlugins": [
     "cordova-plugin-whitelist",
     "cordova-plugin-device",
@@ -40,6 +40,5 @@
     "cordova-plugin-statusbar",
     "cordova-plugin-console"
   ],
-  "cordovaPlatforms": [],
-  "description": "TabsAndMenu: An Ionic project"
+  "cordovaPlatforms": []
 }
